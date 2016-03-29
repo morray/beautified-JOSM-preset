@@ -3989,6 +3989,7 @@
             <check key="outdoor_seating" text="Outdoor seating" disable_off="true" />
             <combo key="takeaway" text="Takeaway" values="yes,no,only" values_sort="false" display_values="Yes,No,Only" />
             <reference ref="oh_wheelchair_level" />
+            <reference ref="diaper" />
             <reference ref="stars" />
             <space />
             <reference ref="internet_smoking" />
@@ -4051,6 +4052,7 @@
             <check key="outdoor_seating" text="Outdoor seating" disable_off="true" />
             <combo key="takeaway" text="Takeaway" values="yes,no,only" />
             <reference ref="oh_wheelchair_level" />
+            <reference ref="diaper" />
             <space />
             <reference ref="internet_smoking" />
             <space />
@@ -4168,6 +4170,7 @@
             <key key="tourism" value="information" />
             <key key="information" value="office" />
             <reference ref="name_oh_wheelchair" />
+            <reference ref="diaper" />
             <reference ref="internet" />
             <reference ref="link_contact_address_payment" />
         </item> <!-- Information Office -->
